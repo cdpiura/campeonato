@@ -1,6 +1,6 @@
 <?php
 // Parámetros de conexión
-$host     = "localhost";
+$host     = "postgresql://postgres:[YOUR-PASSWORD]@db.dwlcppphdvrgewkvzbpi.supabase.co:5432/postgres";
 $port     = "5432";
 $dbname   = "data";
 $user     = "miusuario";
